@@ -1,6 +1,6 @@
 # Winch System Project
 
-Course: ME-465: Machine Design II
+Course: ME-465 Machine Design II
 
 Completed: Fall 2020
 
